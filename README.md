@@ -1,14 +1,3 @@
----
-title: README
-tags: [Templates, Documentation]
-
----
-
----
-title: 'Lesion classification from raw ultrasound signals'
-disqus: hackmd
----
-
 Physician guided analysis of focal liver lesions from raw ultrasound signals 
 ===
 
