@@ -25,3 +25,5 @@ pylibjpeg-libjpeg==2.2.0
 pylibjpeg-openjpeg==2.3.0
 pydicom==2.4.4
 scipy==1.14.1
+pyjpegls==1.4.0
+python-gdcm==3.0.24.1
