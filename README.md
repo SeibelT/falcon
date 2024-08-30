@@ -1,6 +1,6 @@
 Physician guided analysis of focal liver lesions from raw ultrasound signals 
 ===
-
+![image](https://hackmd.io/_uploads/r1CcaX120.png)
 # Introduction
 In the context of the [Medtech Hackathon](https://github.com/Medtech-hackathon), we present an innovative approach to **focal liver lesion analysis** based on raw radiofrequency (RF) data. We propose a comprehensive workflow that includes a guided data extraction, integrated into an intuitive graphical user interface (GUI). This interface is designed to assist medical experts in selecting a region of interest containing the lesion (ROI) and a corresponding reference area (RA) directly from the raw RF data. The RA is chosen based on the similarity to the tissue above the ROI, as it should have the same depth and thereby compensate for the .
 
@@ -100,7 +100,6 @@ An interactive notebook showing how to extract a dataframe from annotated ROIs w
 ### Get in touch
 [Schneider C. Lab, Medical Clinic III, RWTH Uniklinik, Aachen](https://www.ukaachen.de/kliniken-institute/klinik-fuer-gastroenterologie-stoffwechselerkrankungen-und-internistische-intensivmedizin-med-klinik-iii/forschung/ag-schneider-carolin/)
 
-# Graphical abstract- under construction
-![image](https://hackmd.io/_uploads/r1CcaX120.png)
+
 
 
