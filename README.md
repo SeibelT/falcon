@@ -1,14 +1,3 @@
----
-title: README
-tags: [Templates, Documentation]
-
----
-
----
-title: 'Lesion classification from raw ultrasound signals'
-disqus: hackmd
----
-
 Physician guided analysis of focal liver lesions from raw ultrasound signals 
 ===
 
@@ -22,11 +11,6 @@ The ROIs contain only the lesion with a reduced effect of the tissue proximal in
 
 
 The primary objective of our project is to design a structured framework for RF signal data post-processing, which can then be used to train deep learning models for lesion classification. By focusing on raw RF data, this model has the potential to be implemented in cost-effective handheld ultrasound devices, thereby expanding access to advanced diagnostic capabilities.
-
-
-
-# Table of Contents
-[TOC]
 
 
 # Medical background
